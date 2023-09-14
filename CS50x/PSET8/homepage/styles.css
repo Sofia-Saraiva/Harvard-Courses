@@ -1,0 +1,70 @@
+body
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #2C3E50
+}
+
+
+.header
+{
+    position:absolute;
+    top: 8cm;
+    left: 15cm;
+    color: #D2B4DE;
+
+}
+
+.text
+{
+    position:absolute;
+    color: #E8DAEF;
+    top: 10cm;
+    left: 15cm;
+    font-size: 14pt;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
+input
+{
+    position:absolute;
+    top: 10.5cm;
+    left: 15cm;
+    border: 2px solid #f0f0f0;
+    border-radius: 10px;
+    size: 10pt;
+    width: 20%;
+    padding: 10px;
+}
+
+button
+{
+    background-color: #4E3CC8;
+    padding: 16px 32px;
+    border-radius: 32px;
+    color: #fff;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    width: 170px;
+    outline: none;
+    border: none;
+    box-shadow: 0px 2px 6px #4e3cc8;
+    position: relative;
+    top: 9cm;
+    left: 24cm;
+    vertical-align: middle;
+}
+
+footer
+{
+    text-align: center;
+    font-size: small;
+    color: #FDFEFE;
+    margin-top: auto;
+}
