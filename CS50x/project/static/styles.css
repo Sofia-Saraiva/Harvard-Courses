@@ -1,0 +1,50 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+/* Color for nav item */
+nav .nav-item .white
+{
+    color: #ebeaec;
+}
+
+/* Font for nav item */
+nav .nav-item
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Footer */
+footer
+{
+    color: #7c5577;
+    text-align: center;
+    font-size: small;
+    margin-top: auto;
+}
+
+/* Body */
+body
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #c3bdd1;
+}
+
+/* Paragraph */
+#text
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+.list-group-item
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}

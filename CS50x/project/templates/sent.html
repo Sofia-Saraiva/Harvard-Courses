@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sent
+{% endblock %}
+
+{% block main %}
+    <table class="table">
+        <tbody>
+        {% for row in mails %}
+        <tr>
+            <td><b>{{ row["recipient"] }}</b></td>
+            <td>{{ row["time"] }}</td>
+            <td>{{ row["subject"] }}</td>
+            <td>{{ row["body"] }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+
+{% endblock %}
