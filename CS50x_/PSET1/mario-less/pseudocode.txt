@@ -1,8 +1,0 @@
-do once
-if (user input) < 1 OR (user input) > 8
-repeat prompt
-
-for each row
-for each column
-if i + j < n - 1, print " "
-if not, print "#"
