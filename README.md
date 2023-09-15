@@ -1,8 +1,4 @@
-# Harvard CS50x and CS50p Code Repository
-
-![Harvard University Logo](harvard-logo.png)
-
-This repository contains code and materials from the Harvard University courses CS50x Introduction to Computer Science and CS50p Programming in Python. These courses provide a comprehensive introduction to computer science and programming, with a focus on Python.
+# Harvard Courses Code Repository
 
 ## Table of Contents
 
@@ -32,14 +28,4 @@ This repository contains code and materials from the Harvard University courses 
 ## Content
 
 This repository includes code examples, solutions to problem sets, and additional materials related to the CS50x and CS50p courses at Harvard University. The content is organized into folders corresponding to the course and week.
-
-- [CS50x](CS50x/)
-  - [Week 1](CS50x/week1/)
-  - [Week 2](CS50x/week2/)
-  - ...
-- [CS50p](CS50p/)
-  - [Week 1](CS50p/week1/)
-  - [Week 2](CS50p/week2/)
-  - ...
-
 
