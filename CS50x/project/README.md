@@ -1,5 +1,5 @@
 # Telegrama
-#### Video Demo:  https://youtu.be/fvMlbVeabqI
+
 #### Description:
 A mail web-app that allows you to exchange messages to your colleagues, friends and family!
 
