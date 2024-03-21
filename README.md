@@ -1,14 +1,5 @@
 # Harvard Courses Code Repository
 
-## Table of Contents
-
-- [About](#about)
-- [Courses](#courses)
-- [Content](#content)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## About
 
 [Harvard University](https://www.harvard.edu/) offers the CS50x and CS50p courses as part of their Computer Science curriculum. These courses are designed to teach fundamental concepts in computer science and programming, with CS50x serving as an introduction to computer science, and CS50p focusing on Python programming.
